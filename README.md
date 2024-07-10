@@ -5,6 +5,7 @@ Accepted by MICCAI2024.
 
 ## News
 * 2024.7.10 Release the pretrained model using vit-b-16 as vision backbone.
+* 2024.7.9 Fix several bugs in the code.
 * More updates coming soon...
   
 ## Pretrained Model
@@ -13,4 +14,4 @@ If you encounter any issue while downloading or using the pretrained model, plea
 
 | Vision Backbone  |      Text Backbone      |                                                                                               |
 |-----------|:------------:|:---------------------------------------------------------------------------------------------:|
-| ViT-b-16 | RoBERTa-wwm-ext-base-chinese | [LINK](https://drive.google.com/file/d/1xWmEZTinTcQ3uXIozgmDS8arqtNSvJwJ/view?usp=sharing) |
+| ViT-b-16 | RoBERTa-wwm-ext-base-chinese | [LINK](https://drive.google.com/file/d/16t6HnNVxtfSoL183gMqSQog4eMvmlDAu/view?usp=sharing) |
