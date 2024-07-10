@@ -1,6 +1,6 @@
 # RET-CLIP: A Retinal Image Foundation Model Pre-trained with Clinical Diagnostic Reports
 Accepted by MICCAI2024.
-The code is not the final version, we will update and open source the pre-trained model soon.
+| [Paper](https://arxiv.org/pdf/2405.14137) |
 
 ## News
 * 2024.7.10 Release the pretrained model using vit-b-16 as vision backbone.
