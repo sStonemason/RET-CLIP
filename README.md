@@ -14,4 +14,4 @@ If you encounter any issue while downloading or using the pretrained model, plea
 
 | Vision Backbone  |      Text Backbone      |                                                                                               |
 |-----------|:------------:|:---------------------------------------------------------------------------------------------:|
-| ViT-b-16 | RoBERTa-wwm-ext-base-chinese | [LINK](https://drive.google.com/file/d/16t6HnNVxtfSoL183gMqSQog4eMvmlDAu/view?usp=sharing) |
+| ViT-b-16 | RoBERTa-wwm-ext-base-chinese | [LINK](https://drive.google.com/file/d/1lYrAg5qzFbNghEW-3UB36v9WL-mo5eN9/view?usp=sharing) |
