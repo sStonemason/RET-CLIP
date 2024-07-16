@@ -1,5 +1,6 @@
 # RET-CLIP: A Retinal Image Foundation Model Pre-trained with Clinical Diagnostic Reports
 Accepted by MICCAI2024.
+The code repository is based on the official Chinese-CLIP([LINK](https://github.com/OFA-Sys/Chinese-CLIP))
 
 | [Paper](https://arxiv.org/pdf/2405.14137) |
 
