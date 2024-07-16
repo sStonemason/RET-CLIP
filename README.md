@@ -4,6 +4,7 @@ Accepted by MICCAI2024.
 | [Paper](https://arxiv.org/pdf/2405.14137) |
 
 ## News
+* 2024.7.16 Fix several bugs in the code.
 * 2024.7.10 Release the pretrained model using vit-b-16 as vision backbone.
 * 2024.7.9 Fix several bugs in the code.
 * More updates coming soon...
