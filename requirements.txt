@@ -1,4 +1,6 @@
 numpy
+pandas
+transformers
 tqdm
 six
 timm
