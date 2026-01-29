@@ -8,7 +8,7 @@ This code repository is based on the official Chinese-CLIP([LINK](https://github
 | [Paper](https://arxiv.org/pdf/2405.14137) |
 
 ## News
-* 2026.1.29 Introducing ReVision — the most powerful retinal foundation model to date ([LINK](https://arxiv.org/abs/2512.14499)).
+* 2026.1.29 ⭐Introducing ReVision — the most powerful retinal foundation model to date ([LINK](https://arxiv.org/abs/2512.14499)).
 * 2024.7.16 Fix several bugs in the code.
 * 2024.7.10 Release the pretrained model using vit-b-16 as vision backbone.
 * More updates coming soon...
