@@ -15,7 +15,7 @@ import torch.distributed as dist
 import torch.nn.functional as F
 
 from RET_CLIP.clip.model import convert_state_dict
-from eval_RFMiD import eval_multiLabelCls_ViT, eval_multiLabelCls_RN50
+from .eval_RFMiD import eval_multiLabelCls_ViT, eval_multiLabelCls_RN50
 
 
 def is_master(args):
